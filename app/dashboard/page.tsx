@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import Navbar from "@/components/ui/UI-Pulse-navbar";
+import Navbar from "@/components/ui/UI-Pulse-navbar-dashboard";
 import { useUser } from "@clerk/nextjs";
 
 export default function Dashboard() {
